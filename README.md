@@ -1,6 +1,10 @@
 # Unika Learning Resources
 Pembelajaran mengenai teknologi saat ini, maupun yang sedang trending
 
+### CONTACT: LINE SQUARE UNIDEV
+
+![alt text](https://image.ibb.co/n3hVZ8/QrCode.jpg "Logo Title Text 1"))
+
 # Table of Contents
 1. [Resources](#resources)
 2. [Kontribusi](#contributing)
